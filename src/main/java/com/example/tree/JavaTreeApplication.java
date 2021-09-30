@@ -8,6 +8,8 @@ public class JavaTreeApplication {
 	
 	private String name;
 
+    private String dasdafa;
+    
     public static void main(String[] args) {
         SpringApplication.run(JavaTreeApplication.class, args);
     }
