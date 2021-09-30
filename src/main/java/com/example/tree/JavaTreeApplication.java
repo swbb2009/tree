@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class JavaTreeApplication {
 	
-	private String name;
+	private String name312;
 
     public static void main(String[] args) {
         SpringApplication.run(JavaTreeApplication.class, args);
