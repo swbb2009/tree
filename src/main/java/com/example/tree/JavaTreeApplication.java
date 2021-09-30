@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class JavaTreeApplication {
 
+	private String name312sqsq;
 	private String quanshiai;
 
 
